@@ -7,16 +7,6 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
             "Sacred Guardian Squid",
-            "Christmas Penguin",
-            "Gingerbread Shark",
-            "Starry Night Shark",
-            "Pinata Crab",
-            "Pinata Squid",
-            "Frostglow Globe Jelly",
-            "Festive Dolphin",
-            "Icy Swordfish",
-            "Frostveil Ray",
-            "Frostshell Turtle",
             {Name = "Ruby", Variant = "Gemstone"},
         },
 
@@ -28,20 +18,9 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Whitelist Username"] = {"Bloodwluwlu"},
         ["Category Fish"] = {
             "Secret",
-            -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
             "Sacred Guardian Squid",
-            "Christmas Penguin",
-            "Gingerbread Shark",
-            "Starry Night Shark",
-            "Pinata Crab",
-            "Pinata Squid",
-            "Frostglow Globe Jelly",
-            "Festive Dolphin",
-            "Icy Swordfish",
-            "Frostveil Ray",
-            "Frostshell Turtle",
             {Name = "Ruby", Variant = "Gemstone"},
         },
         ["Item Name"] = {
@@ -60,8 +39,9 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
+        ["Auto Element Rod 2"] = true,
         ["Auto Diamond Rod"] = false,
-        ["Unlock Ancient Ruin"] = true,
+        ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
@@ -108,7 +88,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
+        ["Start Farm"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
         },
