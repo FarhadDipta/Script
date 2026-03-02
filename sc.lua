@@ -99,6 +99,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {
             "Reeler II",
+            "Reeler I",
             "SECRET Hunter",
             "Shark Hunter",
             "Mutation Hunter III",
