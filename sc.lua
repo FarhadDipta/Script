@@ -85,7 +85,10 @@ _G.FishItConfig = _G.FishItConfig or {
     ["WebHook"] = {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1443177481245949954/4ry3R9Khm7hy2nQRESGzTLTLMQnrV4ut497QjYVkWrGydOv7HVyQK2b8WeOyRdBczFmV",
         ["Auto Sending"] = true,
-        ["Category"] = {"Secret"},
+        ["Category"] = {
+            "Secret",
+            {Name = "Ruby", Variant = "Gemstone"},
+        },
 
         ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1443177634631516221/vC4EIliUe10mRnO4k-nkoSgVfHcl9xUZ3d3MYcIofjNKTW8Uh5dlzgJ4aZ-ES8u5X9l0",
     },
