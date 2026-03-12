@@ -98,7 +98,10 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Weather"] = {
         ["Auto Buying"] = true,
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = {
+            "Ghostfinn Rod",
+            "Element Rod",
+        },
         ["Weather List"] = {
             "Wind",
             "Storm",
@@ -107,18 +110,27 @@ _G.FishItConfig = _G.FishItConfig or {
     },
     ["Potions"] = {
         ["Auto Use"] = true,
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = {
+            "Ghostfinn Rod",
+            "Element Rod",
+        },
     },
     ["Totems"] = {
         ["Auto Use"] = true,
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = {
+            "Ghostfinn Rod",
+            "Element Rod",
+        },
         ["Buy List"] = {
             ["Mutation Totem"] = 5,
         },
     },
     ["Event"] = {
         ["Start Farm"] = true,
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = {
+            "Ghostfinn Rod",
+            "Element Rod",
+        },
         ["Event List"] = {
         },
     },
