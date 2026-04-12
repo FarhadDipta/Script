@@ -9,6 +9,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Sacred Guardian Squid",
             "Eggy Enchant Stone",
             "Silly Easter Duck",
+            "Velastra"
             {Name = "Ruby", Variant = "Gemstone"},
             {Name = "Blob Fish", Variant = "Ghost"},
             {Name = "Blob Fish", Variant = "Galaxy"},
