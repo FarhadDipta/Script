@@ -7,6 +7,8 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
             "Sacred Guardian Squid",
+            "Eggy Enchant Stone",
+            "Silly Easter Duck",
             {Name = "Ruby", Variant = "Gemstone"},
             {Name = "Blob Fish", Variant = "Ghost"},
             {Name = "Blob Fish", Variant = "Galaxy"},
@@ -51,6 +53,7 @@ _G.FishItConfig = _G.FishItConfig or {
         },
         ["Item Name"] = {
             "Evolved Enchant Stone",
+            "Eggy Enchant Stone",
         },
     },
     ["Farm Coin Only"] = {
@@ -90,7 +93,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1443177481245949954/4ry3R9Khm7hy2nQRESGzTLTLMQnrV4ut497QjYVkWrGydOv7HVyQK2b8WeOyRdBczFmV",
         ["Auto Sending"] = true,
         ["Category"] = {
-            "Secret",
+            "Eggy Enchant Stone",
             {Name = "Ruby", Variant = "Gemstone"},
         },
 
@@ -180,7 +183,7 @@ _G.FishItConfig = _G.FishItConfig or {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod", "Midnight Rod"},
             ["Esoteric Depths"] = {"Steampunk Rod"},
-            ["Treasure Room"] = {"Fluorescent Rod", "Element Rod", "Ghostfinn Rod",},
+            ["Easter Cave"] = {"Fluorescent Rod", "Element Rod", "Ghostfinn Rod",},
         },
         ["Endgame"] = "Element Rod",
     },
