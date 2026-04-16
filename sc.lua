@@ -46,6 +46,7 @@ _G.FishItConfig = _G.FishItConfig or {
                 "FarhadTrade",
             },
         ["Category Fish"] = {
+            "Secret",
         },
         ["Fish Name"] = {
             "Sacred Guardian Squid",
