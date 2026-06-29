@@ -1,1 +1,207 @@
-{"objects":[{"idx":"Main_RestockAlert_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoCollectPlants_Toggle","type":"Toggle","value":true},{"idx":"Plants_AutoInventoryFavorite_Toggle","type":"Toggle","value":false},{"idx":"AutoOpenSeedPack_Toggle","type":"Toggle","value":false},{"idx":"BlackScreen_Toggle","type":"Toggle","value":false},{"idx":"Hop_Toggle","type":"Toggle","value":false},{"idx":"AntiSit_Toggle","type":"Toggle","value":true},{"idx":"PetsV2_AutoEquip_Toggle","type":"Toggle","value":false},{"idx":"Main_AutoBuyAllGear_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoFarmFavorite_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoSellHighPrice_Toggle","type":"Toggle","value":false},{"idx":"AntiAFK_Toggle","type":"Toggle","value":true},{"idx":"Plants_IgnoreFavoritedFruits_Toggle","type":"Toggle","value":true},{"idx":"Plants_AutoShovelTree_Toggle","type":"Toggle","value":false},{"idx":"FPSBoost_Toggle","type":"Toggle","value":true},{"idx":"Mail_AutoSend_Toggle","type":"Toggle","value":true},{"idx":"PetsV2_TameHop_Toggle","type":"Toggle","value":false},{"idx":"RejoinIfPingFreezes","type":"Toggle","value":false},{"idx":"AntiHit_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoSellDelay_Toggle","type":"Toggle","value":true},{"idx":"ShowPlantPrices_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoWaterPlants_Toggle","type":"Toggle","value":false},{"idx":"ShowCustomCursor","type":"Toggle","value":false},{"idx":"Main_AutoBuyAllSeeds_Toggle","type":"Toggle","value":false},{"idx":"Status_Webhook_Enabled","type":"Toggle","value":false},{"idx":"Pred_ShowGear_Toggle","type":"Toggle","value":true},{"idx":"Plants_AutoSellWhenFull_Toggle","type":"Toggle","value":false},{"idx":"AutoStealNight_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoTrowelPlants_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoPlaceSprinklers_Toggle","type":"Toggle","value":false},{"idx":"RollCrateUIRemover","type":"Toggle","value":false},{"idx":"Mail_AutoClaim_Toggle","type":"Toggle","value":true},{"idx":"Plants_AutoDoubleOrNothing_Toggle","type":"Toggle","value":false},{"idx":"Pred_ShowWeather_Toggle","type":"Toggle","value":true},{"idx":"DeleteAllPlants_Toggle","type":"Toggle","value":false},{"idx":"Plants_RerollEnabled_Toggle","type":"Toggle","value":false},{"idx":"Pred_ShowSeed_Toggle","type":"Toggle","value":true},{"idx":"ShowWatermark","type":"Toggle","value":true},{"idx":"CenterGarden_Toggle","type":"Toggle","value":false},{"idx":"AutoAcceptGift_Toggle","type":"Toggle","value":false},{"idx":"Plants_DropFruitOnlyMine_Toggle","type":"Toggle","value":false},{"idx":"Gift_AutoSend_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoShovelPlants_Toggle","type":"Toggle","value":false},{"idx":"Main_AutoBuyGear_Toggle","type":"Toggle","value":true},{"idx":"Status_Webhook_OnBuy","type":"Toggle","value":false},{"idx":"InfiniteJump","type":"Toggle","value":false},{"idx":"Status_Webhook_Avatar","type":"Toggle","value":true},{"idx":"NotifyOnError","type":"Toggle","value":true},{"idx":"AutoReconnect_Toggle","type":"Toggle","value":false},{"idx":"InstantInteract_Toggle","type":"Toggle","value":false},{"idx":"Plants_HarvestHighValueFirst_Toggle","type":"Toggle","value":false},{"idx":"ShowPetPrices_Toggle","type":"Toggle","value":false},{"idx":"Plants_CollectTeleport_Toggle","type":"Toggle","value":true},{"idx":"AutoExecute_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoPlant_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoCollectDropItems_Toggle","type":"Toggle","value":true},{"idx":"Optimization_LowGraphics_Toggle","type":"Toggle","value":true},{"idx":"Plants_PlantMutationAutoFavorite_Toggle","type":"Toggle","value":false},{"idx":"AutoSteal_HighestFirst_Toggle","type":"Toggle","value":true},{"idx":"AutoEquipSeedPack_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoCollectDropFruits_Toggle","type":"Toggle","value":false},{"idx":"DeleteOthersPlants_Toggle","type":"Toggle","value":false},{"idx":"PetsV2_AutoTame_Toggle","type":"Toggle","value":true},{"idx":"WhiteScreen_Toggle","type":"Toggle","value":false},{"idx":"Main_AutoBuySeed_Toggle","type":"Toggle","value":true},{"idx":"Plants_AutoDropFruits_Toggle","type":"Toggle","value":false},{"idx":"HidePlants_Toggle","type":"Toggle","value":false},{"idx":"KeybindMenuOpen","type":"Toggle","value":false},{"idx":"Main_AutoBuyCosmeticCrates_Toggle","type":"Toggle","value":false},{"idx":"Status_Webhook_OnChange","type":"Toggle","value":false},{"idx":"AutoSkipSeed","type":"Toggle","value":false},{"idx":"Noclip_Toggle","type":"Toggle","value":false},{"idx":"Plants_AutoCollectDroppedSeeds_Toggle","type":"Toggle","value":true},{"idx":"LoadAntiStealer_Toggle","type":"Toggle","value":false},{"idx":"SniperSilentAim_Toggle","type":"Toggle","value":false},{"idx":"Gift_MaxItems_Input","type":"Input","text":"20"},{"idx":"Gift_SeedFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Main_AutoBuyCosmeticCrates_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_TrowelSpot_Dropdown","type":"Dropdown","value":"Current Position","mode":"WHITELIST"},{"idx":"Mail_PetFilter_Dropdown","type":"Dropdown","value":{"Raccoon":true,"BlackDragon":true,"IceSerpent":true,"Unicorn":true,"GoldenDragonfly":true,"Robin":true},"mode":"WHITELIST"},{"idx":"Main_AutoBuyGearSelector_Dropdown","type":"Dropdown","value":{"Super Watering Can [Super]":true,"Legendary Sprinkler [Legendary]":true,"Super Sprinkler [Super]":true},"mode":"WHITELIST"},{"idx":"Plants_FarmFavoriteMutationFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Mail_Recipient_Input","type":"Input","text":"mabarwluwlu"},{"idx":"Plants_SelectSeedsToPlant_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"AutoSteal_Mutations_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_WaterLoopDelay_Input","type":"Input","text":"1"},{"idx":"Plants_FarmFavoriteDelay_Input","type":"Input","text":"0.1"},{"idx":"Plants_TrowelSeedFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_WaterPlantsPerCycle_Input","type":"Input","text":"1"},{"idx":"Plants_FarmFavoriteMode_Dropdown","type":"Dropdown","value":"Favorite","mode":"WHITELIST"},{"idx":"PetsV2_HopDelay_Input","type":"Input","text":"5"},{"idx":"Plants_CollectorDelay_Input","type":"Input","text":"0.1"},{"idx":"SeedPackSelector_Dropdown","type":"Dropdown","mode":"WHITELIST"},{"idx":"PetsV2_EquipMode_Dropdown","type":"Dropdown","value":"Rarity","mode":"WHITELIST"},{"idx":"AutoSteal_MinValue_Input","type":"Input","text":"0"},{"idx":"Main_RestockWebhook_Input","type":"Input","text":""},{"idx":"Status_Webhook_Sections","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Gift_PetFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_SprinklerTypes_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"PetsV2_TameTypes_Dropdown","type":"Dropdown","value":{"Raccoon":true,"BlackDragon":true,"IceSerpent":true,"Unicorn":true,"GoldenDragonfly":true},"mode":"WHITELIST"},{"idx":"PetsV2_TameRarity_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"HopVersion_Input","type":"Input","text":""},{"idx":"Gift_GearFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_DropFruitWeightThreshold_Input","type":"Input","text":"0"},{"idx":"Main_PredictorWatch_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_DropFruitDelay_Input","type":"Input","text":"0.15"},{"idx":"Mail_MaxItems_Input","type":"Input","text":"20"},{"idx":"Plants_AutoSellPlantMutationPlant_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_FarmFavoritePlantFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_DropFruitSeedFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_DropFruitMutationFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Status_Webhook_Interval","type":"Input","text":"60"},{"idx":"Plants_DoubleOrNothing_MaxWins_Input","type":"Input","text":"1"},{"idx":"Plants_SelectWaterPlants_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_CollectorMutationFilter_Dropdown","type":"Dropdown","value":{"Electric":true,"Chained":true,"Aurora":true,"Gold":true,"Rainbow":true,"Bloodlit":true,"Starstruck":true,"Frozen":true},"mode":"WHITELIST"},{"idx":"Plants_ShovelPlantFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"AutoSteal_CarryCap_Input","type":"Input","text":"15"},{"idx":"Pred_GearCheck_Dropdown","type":"Dropdown","mode":"WHITELIST"},{"idx":"Status_Webhook_Mention","type":"Input","text":""},{"idx":"Plants_FarmFavoriteWeightComparison_Dropdown","type":"Dropdown","value":"Above","mode":"WHITELIST"},{"idx":"ExportConfig_List","type":"Dropdown","mode":"WHITELIST"},{"idx":"Plants_ShovelWeightThreshold_Input","type":"Input","text":"0"},{"idx":"JobId_Input","type":"Input","text":""},{"idx":"Plants_SeedsPerLoop_Input","type":"Input","text":"3"},{"idx":"NotificationSide","type":"Dropdown","value":"Right","mode":"WHITELIST"},{"idx":"Plants_TrowelMaxPerCycle_Input","type":"Input","text":"5"},{"idx":"Plants_DeleteDelay_Input","type":"Input","text":"0.1"},{"idx":"Plants_DropFruitWeightComparison_Dropdown","type":"Dropdown","value":"Above","mode":"WHITELIST"},{"idx":"DPIDropdown","type":"Dropdown","value":"100%","mode":"WHITELIST"},{"idx":"HopDelay_Input","type":"Input","text":""},{"idx":"Plants_ShovelWeightComparison_Dropdown","type":"Dropdown","value":"Above","mode":"WHITELIST"},{"idx":"PetsV2_EquipRarity_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_PlantSpot_Dropdown","type":"Dropdown","value":"Plot","mode":"WHITELIST"},{"idx":"ImportFile","type":"InputWithButtons","rightValue":"LuminFileName","leftValue":"File-Link"},{"idx":"Plants_AutoSellDelay_Input","type":"Input","text":"300"},{"idx":"Plants_RerollWant_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"PetsV2_TameMode_Dropdown","type":"Dropdown","value":"Name","mode":"WHITELIST"},{"idx":"Plants_ShovelMutationFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Mail_SeedFilter_Dropdown","type":"Dropdown","value":{"Poison Ivy":true,"Ghost Pepper":true,"Pomegranate":true,"Mega":true,"Rainbow":true,"Gold":true,"Poison Apple":true,"Venus Fly Trap":true,"Venom Spitter":true,"Moon Bloom":true},"mode":"WHITELIST"},{"idx":"WalkspeedInput","type":"InputWithButtons","rightValue":"50","leftValue":"36"},{"idx":"Plants_TrowelCFrame_Input","type":"Input","text":""},{"idx":"Gift_Recipient_Input","type":"Input","text":""},{"idx":"Plants_DropFruitPerCycle_Input","type":"Input","text":"3"},{"idx":"Plants_SprinklerTargetPlant_Dropdown","type":"Dropdown","mode":"WHITELIST"},{"idx":"Plants_CollectorWeightThreshold_Input","type":"Input","text":"0"},{"idx":"Plants_CFrame_Input","type":"Input","text":""},{"idx":"AutoSteal_Channel_Input","type":"Input","text":"0"},{"idx":"Status_Webhook_Url","type":"Input","text":""},{"idx":"Plants_FarmFavoriteWeightThreshold_Input","type":"Input","text":"0"},{"idx":"Plants_RerollSeed_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_CollectorWeightComparison_Dropdown","type":"Dropdown","value":"Below or Equal","mode":"WHITELIST"},{"idx":"Plants_AutoSellPlantMutationMutation_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Main_AutoBuySeedSelector_Dropdown","type":"Dropdown","value":{"Moon Bloom [Super]":true,"Mega [Mythic]":true,"Venom Spitter [Mythic]":true,"Venus Fly Trap [Mythic]":true,"Pomegranate [Mythic]":true,"Ghost Pepper [Mythic]":true,"Dragon's Breath [Super]":true,"Poison Apple [Mythic]":true,"Rainbow [Mythic]":true,"Romanesco [Mythic]":true},"mode":"WHITELIST"},{"idx":"Plants_CollectorPlantFilter_Dropdown","type":"Dropdown","value":{"Moon Bloom [Super]":true,"Mega [Mythic]":true,"Venom Spitter [Mythic]":true,"Venus Fly Trap [Mythic]":true,"Pomegranate [Mythic]":true,"Ghost Pepper [Mythic]":true,"Dragon's Breath [Super]":true,"Poison Apple [Mythic]":true,"Rainbow [Mythic]":true,"Romanesco [Mythic]":true},"mode":"WHITELIST"},{"idx":"Plants_InventoryFavoriteMode_Dropdown","type":"Dropdown","value":"Favorite","mode":"WHITELIST"},{"idx":"Main_MutationInfo_Dropdown","type":"Dropdown","mode":"WHITELIST"},{"idx":"AutoSteal_Loop_Input","type":"Input","text":"0.15"},{"idx":"Main_PredictorCheck_Dropdown","type":"Dropdown","mode":"WHITELIST"},{"idx":"Plants_InventoryFavoritePlantFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_FavouriteScope_Dropdown","type":"Dropdown","value":"Inventory","mode":"WHITELIST"},{"idx":"Plants_SeedCollectionDelay_Input","type":"Input","text":"0.1"},{"idx":"PetsV2_EquipTypes_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_SellMultThreshold_Input","type":"Input","text":"2"},{"idx":"Plants_InventoryFavoriteMutationFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Plants_SellHighPriceFilter_Dropdown","type":"Dropdown","value":[],"mode":"WHITELIST"},{"idx":"Mail_GearFilter_Dropdown","type":"Dropdown","value":{"Sprinklers":true,"WateringCans":true},"mode":"WHITELIST"}]}
+getgenv().Settings = {
+    LoopDelay = 0.15,                       -- seconds between main farm cycles (lower = faster/heavier)
+    MoveSpeed = 25,                         -- studs/sec for all teleport-glides; keep <= ~30 or the anti-cheat rubber-bands you
+
+    AutoHarvest = true,
+    HarvestSeedFilter = {
+        "Dragon's Breath",
+        "Moon Bloom",
+    },                 -- {} = all; else names e.g. {"Carrot","Strawberry"}
+    HarvestMutationFilter = {},             -- {} = all; "None"=unmutated; e.g. {"Gold","Rainbow"}
+    HarvestHighestValueFirst = false,
+    MinFruitValue = 0,                      -- only harvest fruit worth >= this ($)
+    StayInGarden = true,
+    HarvestWeightComparison = "Below",        -- "Any" | "Above" | "Below"
+    HarvestWeightThreshold = 50,             -- kg; paired with HarvestWeightComparison
+    HarvestCollectDelay = 100,
+
+    SellWhenBagFull = true,
+    SellEverySeconds = 300,                   -- 0 = off, else sell on this interval
+    ProtectFavorited = true,                -- true = keep favorited; false = unfavorite all then sell everything
+    SellProtect = false,                    -- temp-favorite matching fruit so it isn't sold (empty filters = protect EVERYTHING)
+    SellProtectSeedFilter = {},             -- {} = all; else names e.g. {"Carrot"}
+    SellProtectMutationFilter = {},         -- {} = all; "None"=unmutated; e.g. {"Gold","Rainbow"}
+    SellAtHighPriceMult = 0,                -- 0 = off; else only sell a species when its price mult >= this
+    AutoDoubleOrNothing = false,            -- only works while standing AT Steven (no auto-nav)
+    DoNCashOutWins = 1,                     -- cash out after this many wins
+
+    AutoBuySeeds = {
+        "Briar Rose",
+        "Ghost Pepper",
+        "Mega",
+        "Poison Apple",
+        "Pomegranate",
+        "Rainbow",
+        "Romanesco",
+        "Venom Spitter",
+        "Venus Fly Trap",
+        "Dragon's Breath",
+        "Hypno Bloom",
+        "Moon Bloom",
+    },                      -- {} = none; else names e.g. {"Carrot","Strawberry"}
+    AutoBuyAllSeeds = false,
+    AutoBuyGear = {
+        "Legendary Sprinkler",
+        "Super Sprinkler",
+        "Super Watering Can",
+    },                       -- {} = none; else names e.g. {"Sprinkler","Watering Can"}
+    AutoBuyAllGear = false,
+    AutoBuyCrates = {},                     -- {} = none; else crate names
+    AutoBuyAllCrates = false,
+
+    AutoFavorite = false,
+    FavoriteMutationFilter = {},            -- {} = all; "None"=unmutated; e.g. {"Gold","Rainbow"}
+
+    AutoFarmFavorite = false,
+    FarmFavoriteSeedFilter = {},            -- {} = all; else names e.g. {"Carrot"}
+    FarmFavoriteMutationFilter = {},        -- {} = all; "None"=unmutated; e.g. {"Gold","Rainbow"}
+    FarmFavoriteMode = "Favorite",          -- "Favorite" | "Unfavorite"
+    FarmFavoriteWeightThreshold = 0,        -- kg; 0 = ignore weight
+    FarmFavoriteWeightAbove = true,         -- true = ABOVE threshold; false = BELOW
+    FarmFavoriteDelay = 0.1,
+
+    AutoOpenSeedPack = false,
+    AutoEquipSeedPack = false,
+    AutoSkipSeedPack = false,
+    SeedPackName = "",                      -- "" = any pack; else exact pack name e.g. "Common Seed Pack"
+
+    AutoWater = false,
+    WaterSeedFilter = {},                   -- {} = all; else names e.g. {"Carrot"}
+    WaterPlantsPerCycle = 8,
+    WaterLoopDelay = 1,                     -- seconds between water cycles
+
+    AutoPlant = false,                      -- must be OFF for Reroll to run
+    PlantSeeds = {},                        -- {} = none; else names e.g. {"Carrot","Strawberry"}
+    PlantSpot = "Plot",                     -- "Plot" | "Saved"
+    PlantSavedCFrame = "",                  -- CFrame string used when PlantSpot="Saved"
+
+    Reroll = false,                         -- needs BOTH RerollSeed and RerollWant non-empty AND AutoPlant=false
+    RerollSeed = {},                        -- seed(s) to plant+shovel until match e.g. {"Carrot"}
+    RerollWant = {},                        -- desired resulting species e.g. {"Carrot"}
+
+    AutoShovel = false,
+    ShovelTree = false,                     -- also shovel trees/large plants
+    ShovelSeedFilter = {},                  -- {} = all; else names e.g. {"Carrot"}
+    ShovelMutationFilter = {},              -- {} = all; "None"=unmutated; e.g. {"Gold","Rainbow"}
+    ShovelWeightComparison = "Above",       -- "Above" | "Below"
+    ShovelWeightThreshold = 0,
+    ShovelIgnoreFavorited = true,
+    ShovelDelay = 0.1,
+
+    AutoSprinkler = false,
+    SprinklerTypes = {},                    -- {} = none; else names e.g. {"Basic Sprinkler"}
+    SprinklerTargetPlant = {},              -- {} = anywhere; else plant names e.g. {"Carrot"}
+
+    AutoTrowel = false,
+    TrowelSeedFilter = {},                  -- {} = all; else names e.g. {"Carrot"}
+    TrowelMaxPerCycle = 5,
+    TrowelSpot = "Current",                 -- "Current" | "Saved"
+    TrowelSavedCFrame = "",                 -- CFrame string used when TrowelSpot="Saved"
+
+    AutoCollectDroppedSeeds = true,
+    AutoCollectDropItems = false,
+    AutoCollectDropFruits = false,
+    CollectDropFruitsOnlyMine = false,
+    CollectDropPerCycle = 3,
+
+    AutoCollectEventSeeds = true,          -- Gold/Rainbow event seed-pack markers
+    EventSeedMaxPerCycle = 200,
+
+    AutoDropFruits = false,
+    DropFruitSeedFilter = {},               -- {} = all; else names e.g. {"Carrot"}
+    DropFruitMutationFilter = {},           -- {} = all; "None"=unmutated; e.g. {"Gold","Rainbow"}
+    DropFruitMinValue = 0,                  -- only drop fruit worth >= this ($)
+    DropFruitPerCycle = 3,
+    DropFruitDelay = 0.15,
+
+    AutoEquipPets = false,
+    EquipMode = "Name",                     -- "Name" | "Rarity"
+    EquipTypes = {},                        -- EquipMode="Name"; {} = all; else names e.g. {"Cat","Dog"}
+    EquipRarity = {},                       -- EquipMode="Rarity"; {} = all; else e.g. {"Legendary","Mythical"}
+
+    AutoBuyPet = true,
+    PetBuyMode = "Name",                    -- "Name" | "Rarity"
+    PetBuyTypes = {
+        "Bear",
+        "BlackDragon",
+        "GoldenDragonfly",
+        "IceSerpent",
+        "Raccoon",
+        "Unicorn",
+    },                       -- PetBuyMode="Name"; {} = all; else names e.g. {"Cat"}
+    PetBuyRarity = {},                      -- PetBuyMode="Rarity"; {} = all; else e.g. {"Legendary"}
+
+    DefendPet = false,
+    DefendTime = 12,                        -- seconds to defend
+    MaxSpendPerPet = 0,                     -- 0 = no cap; number, or "25k" / "1m"
+
+    AutoServerHopForPet = false,
+    HopDelay = 5,                           -- seconds between server hops
+
+    AutoSteal = false,
+    StealMinValue = 0,                      -- only steal fruit worth >= this ($)
+    StealHighestFirst = true,
+    StealMutations = {},                    -- {} = all; "None"=unmutated; e.g. {"Gold","Rainbow"}
+    StealTime = 0,                          -- steal-hold time, lower = faster
+    StealLoopDelay = 0.5,
+    StealCarryCap = 15,                     -- max carried before depositing
+    StealAntiHit = false,
+    StealCenterGarden = false,
+    SniperSilentAim = false,
+
+    AutoMail = true,
+    MailRecipient = "Mabarwluwlu",                     -- "" = none; username or UserId
+    MailPetFilter = {
+        "Bear",
+        "BlackDragon",
+        "GoldenDragonfly",
+        "IceSerpent",
+        "Raccoon",
+        "Unicorn",
+    },                     -- {} = NONE (sends nothing); else pet names e.g. {"Cat"}
+    MailSeedFilter = {
+        "Briar Rose",
+        "Ghost Pepper",
+        "Mega",
+        "Poison Apple",
+        "Pomegranate",
+        "Rainbow",
+        "Romanesco",
+        "Venom Spitter",
+        "Venus Fly Trap",
+        "Dragon's Breath",
+        "Hypno Bloom",
+        "Moon Bloom",
+    },                    -- {} = NONE; else seed names e.g. {"Carrot"}
+    MailGearFilter = {
+        "Legendary Sprinkler",
+        "Super Sprinkler",
+        "Super Watering Can",
+    },                    -- {} = NONE; else gear names e.g. {"Sprinkler"}
+    MailMaxItems = 20,                      -- 1..200
+
+    AutoClaimMail = true,
+
+    AutoGift = false,
+    GiftRecipient = "",                     -- "" = none; username or UserId
+    GiftPetFilter = {},                     -- {} = NONE (sends nothing); else pet names e.g. {"Cat"}
+    GiftSeedFilter = {},                    -- {} = NONE; else seed names e.g. {"Carrot"}
+    GiftGearFilter = {},                    -- {} = NONE; else gear names e.g. {"Sprinkler"}
+    GiftMaxItems = 20,
+
+    AutoAcceptGift = true,
+
+    AntiAFK = true,
+    AutoReconnect = false,
+    RejoinIfPingFrozen = false,             -- rejoin if ping freezes for ~20 min
+
+    Webhook = false,                        -- needs WebhookUrl; posts seed/gear/weather predictions + sheckles
+    WebhookUrl = "",                        -- "" = off; your Discord webhook URL
+    WebhookEverySeconds = 300,              -- interval between prediction posts (min 30)
+    WebhookOnPetBuy = false,
+    WebhookMention = "",                    -- "" = none; "<@userid>" or "<@&roleid>"
+    RestockAlert = false,
+    RestockWatch = {},                      -- {} = none; item names e.g. {"Carrot","Sprinkler"}
+
+    AutoTutorial = true,
+}
