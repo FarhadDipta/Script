@@ -13,7 +13,7 @@ getgenv().Settings = {
     StayInGarden = true,
     HarvestWeightComparison = "Below",        -- "Any" | "Above" | "Below"
     HarvestWeightThreshold = 50,             -- kg; paired with HarvestWeightComparison
-    HarvestCollectDelay = 100,
+    HarvestCollectDelay = 0,
 
     SellWhenBagFull = true,
     SellEverySeconds = 300,                   -- 0 = off, else sell on this interval
