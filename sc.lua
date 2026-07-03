@@ -174,9 +174,8 @@ getgenv().Settings = {
         "Moon Bloom",
     },                    -- {} = NONE; else seed names e.g. {"Carrot"}
     MailGearFilter = {
-        "Legendary Sprinkler",
-        "Super Sprinkler",
-        "Super Watering Can",
+        "Sprinkler",
+        "Watering Can",
     },                    -- {} = NONE; else gear names e.g. {"Sprinkler"}
     MailMaxItems = 20,                      -- 1..200
 
